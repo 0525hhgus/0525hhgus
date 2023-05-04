@@ -40,8 +40,6 @@ https://blog.cowkite.com/blog/2102241544/
 </div>
 -->
 
-*In progress*
-
 <!-- Tech Stack https://simpleicons.org/?q=docker -->
 ### 📚 Tech Stack 📚
 #### ✨ Languages & Platforms ✨
@@ -70,7 +68,12 @@ https://blog.cowkite.com/blog/2102241544/
 ---
 
 ### 💻 Project 💻
-
+<details>
+  <summary>In progress</summary>
+  <div markdown="1">
+  	<p>...</p>
+  </div>
+</details>
 <details>
   <summary>2023~</summary>
   <div markdown="1">
@@ -94,11 +97,13 @@ https://blog.cowkite.com/blog/2102241544/
 <details>
   <summary>2023~</summary>
   <div markdown="1">
+    <a href="https://github.com/0525hhgus/PA-Presentation-Assistant">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=PA-Presentation-Assistant" /></a>
     <a href="https://github.com/0525hhgus/Gangseogu-Bigdata-Smartpole">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Gangseogu-Bigdata-Smartpole" /></a>
+    <br></br>
     <a href="https://github.com/0525hhgus/Korean-Abstractive-Summarization">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Korean-Abstractive-Summarization" /></a>
-    <br></br>
     <a href="https://github.com/0525hhgus/ML-Olympiad_Detect-ChatGpt-answers">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=ML-Olympiad_Detect-ChatGpt-answers"/></a>
   </div>
