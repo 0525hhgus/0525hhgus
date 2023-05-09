@@ -30,11 +30,11 @@ https://blog.cowkite.com/blog/2102241544/
 
 - 🔭 I’m currently working on ...
 	- Apache Hadoop Ecosystem in CDP, CDSW
+	- Finance
 
 - 🌱 I’m currently learning ...
 	- Apache Hadoop Ecosystem
-	- Data Analysis, NLP 
-	- Finance
+	- Data Analysis, NLP
 
 ---
 <!-- STATUS https://github.com/anuraghazra/github-readme-stats -->
@@ -82,7 +82,10 @@ https://blog.cowkite.com/blog/2102241544/
 <details>
   <summary>In progress</summary>
   <div markdown="1">
-  	<p>...</p>
+    <ul>
+      <li>HuggingFace transfomers Docs Translation</li>
+      <li>Development of Human VS ChatGPT Q&A Dataset(Korean)</li>
+    </ul>
   </div>
 </details>
 <details>
