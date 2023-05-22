@@ -29,12 +29,12 @@ https://blog.cowkite.com/blog/2102241544/
 </p>
 
 - 🔭 I’m currently working on ...
-	- Apache Hadoop Ecosystem in CDP, CDSW
+	- Hadoop Ecosystem
 	- Finance
 
 - 🌱 I’m currently learning ...
-	- Apache Hadoop Ecosystem
-	- Data Analysis, NLP
+	- Hadoop Ecosystem
+	- Data Science, Data Analysis, NLP
 
 ---
 <!-- STATUS https://github.com/anuraghazra/github-readme-stats -->
@@ -93,6 +93,8 @@ https://blog.cowkite.com/blog/2102241544/
   <div markdown="1">
     <a href="https://github.com/0525hhgus/DaCrew4_MonthCrew-Predict_APT_Price">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=DaCrew4_MonthCrew-Predict_APT_Price" /></a>
+    <a href="https://github.com/0525hhgus/data-contest-page">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=data-contest-page" /></a>
   </div>
 </details>
 
