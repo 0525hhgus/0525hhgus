@@ -30,7 +30,7 @@ https://blog.cowkite.com/blog/2102241544/
 
 - 🔭 I’m currently working on ...
 	- Hadoop Ecosystem
-	- AI/NLP
+	- AI, NLP
 
 - 🌱 I’m currently learning ...
 	- Hadoop Ecosystem
@@ -127,10 +127,13 @@ https://blog.cowkite.com/blog/2102241544/
 <details>
   <summary>2021~2022</summary>
   <div markdown="1">
-    <a href="https://github.com/0525hhgus/TEAM_GQB-CommunityInnovation-Hackathon">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=TEAM_GQB-CommunityInnovation-Hackathon" /></a>
+    <a href="https://github.com/0525hhgus/AI-Writing-Supporter">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=AI-Writing-Supporter" /></a>
     <a href="https://github.com/0525hhgus/Oasisu">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=Oasisu" /></a>
+    <br></br>
+    <a href="https://github.com/0525hhgus/TEAM_GQB-CommunityInnovation-Hackathon">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=TEAM_GQB-CommunityInnovation-Hackathon" /></a>
   </div>
 </details>
 
