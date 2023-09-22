@@ -84,8 +84,7 @@ https://blog.cowkite.com/blog/2102241544/
   <summary>In progress</summary>
   <div markdown="1">
     <ul>
-      <li>HuggingFace transfomers Docs Translation</li>
-      <li>Development of Human VS ChatGPT Q&A Dataset(Korean)</li>
+      <li><a href="https://github.com/huggingface/transformers/issues/20179"/>HuggingFace transfomers Docs Translation</li>
     </ul>
   </div>
 </details>
@@ -94,6 +93,8 @@ https://blog.cowkite.com/blog/2102241544/
   <div markdown="1">
     <a href="https://github.com/0525hhgus/DaCrew4_MonthCrew-Predict_APT_Price">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=DaCrew4_MonthCrew-Predict_APT_Price" /></a>
+    <a href="https://github.com/0525hhgus/DaCrew6_credict-delinquency-prediction">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=0525hhgus&repo=DaCrew6_credict-delinquency-prediction" /></a>
   </div>
 </details>
 
